@@ -1,0 +1,7 @@
+Host production
+    HostName 10.0.0.1
+    IdentityFile ~/.ssh/id_rsa
+    User deploy
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC7fakekey user@host
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGfakekey user@host
